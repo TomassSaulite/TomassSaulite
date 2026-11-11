@@ -2,18 +2,19 @@
 
 Developer from Latvia building software for the logistics and trucking world, and studying Computer Science at Turība University.
 
-At work I build internal fleet-management web platforms in **Laravel/PHP** and Android apps for truck drivers in **Kotlin**. On the side I build full-stack projects with **Laravel + Vue 3**.
+At work I build internal fleet-management platforms with **Laravel/PHP** and Android apps for truck drivers with **Kotlin**. On the side I build full-stack products with **Laravel, Vue 3, TypeScript, and Python**.
 
-#### Featured projects
+I enjoy turning operational problems into software that is practical, explainable, and useful in the real world.
+
+#### Featured work
 
 | Project | What it is | Stack |
 |---|---|---|
-| [**ParkAlong**](https://github.com/TomassSaulite/ParkAlong) | Recommends truck parking along a live route based on remaining legal driving time, safety and amenities. [Live demo →](https://parkalong.free.laravel.cloud) | Laravel, OpenStreetMap / Overpass |
-| [**TriTrain**](https://github.com/TomassSaulite/triTrain) | Web app for an adaptive triathlon coach: onboarding, daily plan, calendar, workout library and Strava connection | Vue 3, TypeScript, Vite, PWA |
-| [**TriTrain API**](https://github.com/TomassSaulite/triTrainAPI) | Backend that generates periodized swim/bike/run plans and re-plans remaining weeks as workouts sync in from Strava | Laravel, PHPUnit, GitHub Actions |
-| [**FridgeRaid API**](https://github.com/TomassSaulite/FridgeRaidAPI) | Ranks dinner ideas from your pantry, using an ingredient-substitution graph with weighted edges and a depth-limited BFS | Laravel, PHPUnit, GitHub Actions |
-| [**FridgeRaid**](https://github.com/TomassSaulite/FridgeRaid) | Installable, offline-capable PWA frontend for the API, with a step-by-step Cook Mode | Vue 3, Vite, PWA |
-| [**ManualEntryApp**](https://github.com/TomassSaulite/ManualEntryApp) | Helps truck drivers calculate tachograph manual entries between base and truck | Kotlin, Android |
+| [**ParkAlong**](https://github.com/TomassSaulite/ParkAlong) | Recommends truck parking along a live route using driving time, safety, detour, and amenities. [Live demo →](https://parkalong.free.laravel.cloud) | Laravel, OpenStreetMap / Overpass |
+| [**TriTrain**](https://github.com/TomassSaulite/triTrain) · [API](https://github.com/TomassSaulite/triTrainAPI) | An adaptive triathlon coach that builds, explains, and re-plans training around real athlete data. | Vue 3, TypeScript, Laravel, Strava |
+| [**FridgeRaid**](https://github.com/TomassSaulite/FridgeRaid) · [API](https://github.com/TomassSaulite/FridgeRaidAPI) | A pantry-to-dinner app using a weighted ingredient-substitution graph to rank realistic recipes. | Vue 3, PWA, Laravel, MySQL |
+| [**Habiter**](https://github.com/TomassSaulite/Habiter) | A habit tracker and private diary with per-user data isolation and completion history. | Laravel, Blade, Tailwind, Pest |
+| [**TradeLocal**](https://github.com/TomassSaulite/TradeLocal) | A small local marketplace with accounts, image listings, ownership checks, and search. | Python, Django, Bootstrap |
 
 #### Tech I use
 
