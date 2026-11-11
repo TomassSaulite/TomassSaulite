@@ -6,6 +6,10 @@ At work I build internal fleet-management platforms with **Laravel/PHP** and And
 
 I enjoy turning operational problems into software that is practical, explainable, and useful in the real world.
 
+#### Start here
+
+If you only have a minute, start with the [ParkAlong live demo](https://parkalong.free.laravel.cloud), then see the [TriTrain web app](https://github.com/TomassSaulite/triTrain) and its [adaptive coaching API](https://github.com/TomassSaulite/triTrainAPI).
+
 #### Featured work
 
 | Project | What it is | Stack |
